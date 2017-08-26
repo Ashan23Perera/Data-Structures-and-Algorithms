@@ -1,0 +1,19 @@
+Report 
+
+ ==>Array base execution
+     *Elapsed time : 36572.537000 for Queue (ETAQ)
+     *Elapsed time : 4.093000 for Stack     (ETAS)
+	 
+	 
+ 
+ ==>Linked list base execution
+     *Elapsed time :33574.841000 for Queue   (ETLLQ)
+	 *Elapsed time :4.38600 for Stack    (ETLLS) 
+	 
+. ETAQ > ETLLQ
+. ETAS > ETLLS
+
+
+* Array base implementation get more time to execute the stack 
+  than Linked List base implementation.
+  But  Linklist base inmplementation get more memory than Array base implementation.	 
